@@ -16,7 +16,7 @@ type Results struct {
 }
 
 func (r Results) Print() {
-	fmt.Printf("Total:%d \t Average:%v \n", r.Total, r.Average)
+	fmt.Printf("Total:%10d \t Average:%10v \n", r.Total, r.Average)
 }
 
 type TestPlan struct {
