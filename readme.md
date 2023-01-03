@@ -2,7 +2,7 @@
 
 Run command
 ```bash
-go install github.com/flamurey/gobench
+go install github.com/flamurey/gobench@latest
 ```
 
 # Ho to run
