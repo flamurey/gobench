@@ -62,7 +62,7 @@ Running bench with config {WorkersCount:1 ThreadsCount:1}
 Results of light payload
 Total:  66349874         Average:      30ns 
 Results of hard payload
-Total:     10144         Average: 313.136µs 
+Total:     10144         Average:  197.16µs 
 gobench        
 Running bench with config {WorkersCount:12 ThreadsCount:12} 
 Results of light payload
