@@ -53,3 +53,20 @@ Total:  25241130         Average:      79ns
 Results of hard payload
 Total:     51191         Average:  39.069µs
 ```
+
+AMD Ryzen 5 7600
+
+```
+gobench -single
+Running bench with config {WorkersCount:1 ThreadsCount:1} 
+Results of light payload
+Total:  66349874         Average:      30ns 
+Results of hard payload
+Total:     10144         Average: 313.136µs 
+gobench        
+Running bench with config {WorkersCount:12 ThreadsCount:12} 
+Results of light payload
+Total:  178901644        Average:      11ns 
+Results of hard payload
+Total:     60786         Average:  32.902µs
+```
